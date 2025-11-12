@@ -1,9 +1,6 @@
 # PoolGame
 ## Overview
-PoolGame is a work-in-progress game of pool I'm developing and coding for my A-Level Computer Science Programming Project. My writeup for it is attached to this repository.
-
-The premise of PoolGame is pool but for 2+ players so that larger groups can play. 
-I'm also planning on implementing other features (e.g. obstacles, multiple cue balls). For more details, see my attached writeup.
+PoolGame is a mostly-complete simulated game of pool I developed and coded for my A-Level Computer Science Programming Project. My writeup for it is attached to this repository.
 
 ## Tools, Frameworks, and Libraries used
 - [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/) - A programming language built for the .NET Framework, used for coding PoolGame.
